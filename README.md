@@ -1,3 +1,7 @@
+# GitHub Authorization Token
+
+This demo uses a temporal access token that will expires on Sun, Sep 19 2021.
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
