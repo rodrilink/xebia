@@ -3,7 +3,7 @@
   "version": "0.1.0",
   "private": true,
   "scripts": {
-    "start": "cross-env REACT_APP_GITHUB_TOKEN='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' react-scripts start",
+    "start": "cross-env REACT_APP_GITHUB_TOKEN='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' react-scripts start",
     "build": "react-scripts build",
     "test": "react-scripts test",
     "eject": "react-scripts eject",
@@ -32,7 +32,6 @@
     "react-scripts": "4.0.3",
     "redux": "^4.1.0",
     "styled-components": "^5.2.1",
-    "typescript": "^4.1.2",
     "web-vitals": "^1.0.1",
     "reselect": "^4.0.0"
   },
@@ -53,7 +52,7 @@
     "postcss": "^7",
     "postcss-cli": "^8.3.0",
     "postcss-preset-env": "^6.7.0",
-    "typescript": "4.0"
+    "typescript": "^4.1.2"
   },
   "eslintConfig": {
     "extends": [
